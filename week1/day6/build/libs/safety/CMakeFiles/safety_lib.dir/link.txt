@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsafety_lib.a CMakeFiles/safety_lib.dir/safety_fsm.cpp.o
+/usr/bin/ranlib libsafety_lib.a
