@@ -1,0 +1,6 @@
+/home/advitha/robotics_training/week1/day7/build/CMakeFiles/robot_node.dir
+/home/advitha/robotics_training/week1/day7/build/CMakeFiles/edit_cache.dir
+/home/advitha/robotics_training/week1/day7/build/CMakeFiles/rebuild_cache.dir
+/home/advitha/robotics_training/week1/day7/build/libs/core/CMakeFiles/core_lib.dir
+/home/advitha/robotics_training/week1/day7/build/libs/core/CMakeFiles/edit_cache.dir
+/home/advitha/robotics_training/week1/day7/build/libs/core/CMakeFiles/rebuild_cache.dir

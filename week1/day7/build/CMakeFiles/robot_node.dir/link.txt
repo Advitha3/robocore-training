@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/robot_node.dir/src/main.cpp.o -o robot_node  libs/core/libcore_lib.a 
