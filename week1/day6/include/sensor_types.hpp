@@ -9,6 +9,8 @@ struct SensorReading{
     bool is_healthy;
     std::vector<double>payload;
 };
-
+//Function declaration (implementation will be in the sensor library)
 bool validate_sensor_health(const SensorReading& reading);
+
+
 
